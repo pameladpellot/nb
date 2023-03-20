@@ -1,0 +1,47 @@
+
+Participant: Solar physicists who are interested in ASO-S data and potential users
+Date: China-America Session (April 10-11, 2023, America, EST; April 11-12, 2023, China, CST) and China-Europe Session (April 11-12, 2023, CST/UTC)
+Place: Online at Zoom (Meeting number TBD)
+Contents: I. General Introduction; II. Data center and homepage; III. Data and software of three payloads; IV. Practice
+
+Schedule: China-America Session
+No. 	Time	Topics	Lecture
+April 10, 2023 (Monday, EST); April 11, 2023 (Tuesday, CST)
+I.1	19:00-19:15 EST
+(07:00-07:15 CST)	Welcome (mission, data policy, visitor program…)	Weiqun Gan
+I.2	19:15-19:30 EST
+(07:15-07:30 CST)	ASO-S Science Operation & Data Center 	Yu Huang
+II.1	19:30-20:00 EST
+(07:30-08:00 CST)	Introduction on Website and Software Installation	Yingna Su
+III.1	20:00-21:00 EST
+(08:00-09:00 CST)	HXI Data and Software	Yang Su
+Meeting break（21:00-21:15 EST / 09:00-09:15 CST）
+III.2	21:15-22:00 EST
+(09:15-10:00 CST)	FMG Data and Software	Suo Liu
+III.3 	22:00-23:00 EST
+(10:00-11:00 CST)	LST Data and Software	Li Feng
+April 11, 2023 (Tuesday, EST); April 12, 2023 (Wednesday, CST)
+IV.1	20:30-23:00 EST
+(08:30-11:00 CST)	Practice, Questions and Answers	Qingmin Zhang, Dong Li, Yingna Su
+
+
+Schedule: China-Europe Session
+No. 	Time	Topics	Lecturer
+April 11, 2023 (Tuesday, UTC/CST)
+I.1	08:30-08:45 UTC
+(16:30-16:45 CST)	Welcome (mission, data policy, visitor program…)	Weiqun Gan
+I.2	08:45-09:00 UTC
+(16:45-17:00 CST)	ASO-S Science Operation & Data Center 	Yu Huang
+II.1	09:00-09:30 UTC
+(17:00-17:30 CST)	Introduction on Website and Software Installation	Yingna Su
+III.1	09:30-10:30 UTC
+(17:30-18:30 CST)	HXI Data and Software	Yang Su
+Meeting break（10:30-10:45 UTC / 18:30-18:45 CST）
+III.2	10:45-11:30 UTC
+(18:45-19:30 CST)	FMG Data and Software	Suo Liu
+III.3 	11:30-12:30 UTC
+(19:30-20:30 CST)	LST Data and Software	Li Feng
+April 12, 2023 (Wednesday, UTC/CST)
+IV.1	08:30-11:00 UTC
+(16:30-19:00 CST)	Practice, Questions and Answers	Qingmin Zhang, Dong Li, Yingna Su
+
